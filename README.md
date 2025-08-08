@@ -6,10 +6,10 @@ In this version, I replaced **MongoDB** with **MySQL** to work with a relational
 
 ---
 
-📌 Check out my other projects:
-Live Link
-ClinicPro ( Live Clinic Website ) → https://www.kshitijhomoeopathy.com/
-ClinicProX (MongoDB version) →  clinic-pro-x.vercel.app
+## 📌 Check out my other projects:
+
+- **ClinicPro** (Live Clinic Website) → [https://www.kshitijhomoeopathy.com/](https://www.kshitijhomoeopathy.com/)
+- **ClinicProX** (MongoDB version) → [https://clinic-pro-x.vercel.app/](https://clinic-pro-x.vercel.app/)
 
 ## 🚀 Tech Stack
 
