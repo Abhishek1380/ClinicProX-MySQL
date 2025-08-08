@@ -16,14 +16,14 @@ In this version, I replaced **MongoDB** with **MySQL** to work with a relational
 ### Frontend:
 - ReactJS
 - Axios for API calls
-- CSS / Bootstrap / Tailwind (as per project)
+- CSS / Bootstrap
 - React Router DOM
 
 ### Backend:
 - Node.js
 - Express.js
 - MySQL (Database)
-- Sequelize / mysql2 (for database operations)
+- mysql2 (for database operations)
 
 ---
 
